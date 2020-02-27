@@ -1,0 +1,23 @@
+{
+  "name": "@run/healthcheck-run-server",
+  "version": "0.1.0",
+  "description": "Server moudule for monitoring the node application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunthomasalex/healthcheck-run-server.git"
+  },
+  "keywords": [
+    "healthcheck",
+    "healthcheck-server"
+  ],
+  "author": "Arun Thomas Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arunthomasalex/healthcheck-run-server/issues"
+  },
+  "homepage": "https://github.com/arunthomasalex/healthcheck-run-server#readme"
+}
